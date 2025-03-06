@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Writing better logic and solving complex problems efficiently.**
 
-- 💬 Ask me about **JavaScript,TypeScript,ReactJs,Firebase**
+- 💬 Ask me about **JavaScript, TypeScript, ReactJs, Firebase**
 
 - 📫 How to reach me **moizahmedawan321@gmail.com**
 
