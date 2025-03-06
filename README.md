@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software developer from pakistan</h3>
 
 
-- 🔭 I’m currently working on **JavaScript,Firebase,React.js**
+- 🔭 I’m currently working on **JavaScript, Firebase, React.js**
 
-- 🌱 I’m currently learning **NodeJs,ExpressJs,MongoDB**
+- 🌱 I’m currently learning **NodeJs, ExpressJs, MongoDB**
 
 - 👯 I’m looking to collaborate on **I’m eager to team up on software innovation and cutting-edge tech projects**
 
