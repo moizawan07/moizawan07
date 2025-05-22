@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, ReactJs, Firebase**
 
-- 📫 How to reach me **moizahmedawan321@gmail.com**
-
 - ⚡ Fun fact **I love solving complex problems—except.😆 when it's a missing semicolon**
 
 <h3 align="left">Connect with me:</h3>
