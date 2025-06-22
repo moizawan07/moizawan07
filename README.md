@@ -1,18 +1,67 @@
+<h1 align="center">Hi 👋, I'm Moiz</h1>
+<h3 align="center">A Passionate Full Stack Developer from Pakistan 🇵🇰</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moiz awan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moizahmedawan321@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;MERN+Stack+Specialist;React+Lover;Open+Source+Contributor;Always+Learning!" />
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=moizawan07&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=moizawan07&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moizawan07&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🧑‍💻 About Me
+- 🔭 I’m currently working on **Full Stack HRMS + eCommerce Project**
+- 🌱 I’m learning **Advanced Backend Architecture, Web3 & TypeScript**
+- 💬 Ask me about **React, Redux, Firebase, MongoDB, Node.js**
+- ⚡ Fun fact: *I love building user-centric designs with clean code.*
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
+### 💼 Tech Stack
 
+#### 🌐 **Frontend**
+> `React.js` | `Next.js` | `Redux` | `JavaScript` | `TypeScript` | `Tailwind CSS` | `MUI` | `Bootstrap` | `Vite` | `Chart.js` | `React Native`
+
+📱 💻 🌀 ⚛️ 🔷 🧠 🎨 💅 🌈 📊 📱
+
+#### 🔧 **Backend**
+> `Node.js` | `Express.js` | `Nodemon` | `Firebase`
+
+🟢 🚀 🔧 🔥
+
+#### 🛢️ **Databases**
+> `MongoDB` | `MySQL`
+
+🍃 🐬
+
+#### 📦 **Tools & Dev**
+> `Git` | `GitHub` | `VS Code` | `Postman`
+
+🔧 🐙 💻 📮
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moizawan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizawan&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contact Me
+- 📩 Email: moizawan@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/moizawan](https://linkedin.com/in/moizawan)
+
+---
+
+### ☁️ Fun Quote
+> **“Code like it’s Sunnah, commit like it's Sadaqah!”** 🌟
+
+---
+
+### 📖 Islamic Motivation
+
+> **"Indeed, Allah loves those who rely upon Him."**  
+> *— Surah Aal-Imran (3:159)*  
+> Keep working hard, and put your trust in Allah — success will follow. 🌙
 
