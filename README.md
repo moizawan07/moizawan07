@@ -78,7 +78,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/moizawan07/moizawan07/output/snake.svg" alt="Snake animation" />
+<img src="./snake.yml" alt="Snake animation" />
 
 ###
 
