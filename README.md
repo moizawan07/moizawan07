@@ -52,36 +52,35 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moizawan07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=moizawan07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moizawan07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img align="left" height="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p1Z2k2NzgyeTNhZ2swbHQyNG1sN2Nmc2JobnJ0MjhjcnE3MWc4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
+###
+
+<div align="left">
+  <a href=" https://www.linkedin.com/in/moiz-awan07" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="27" alt="linkedin logo"  />
+  </a>
+  <a href="awanmoiz709@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="27" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="27" alt="facebook logo"  />
 </div>
 
 ###
 
-<img align="left" height="110" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p1Z2k2NzgyeTNhZ2swbHQyNG1sN2Nmc2JobnJ0MjhjcnE3MWc4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<p align="left">"Beter programmer who that understand all developers code not just self code understand"</p>
 
 ###
 
-<div align="center">
-  <a href=" https://www.linkedin.com/in/moiz-awan07" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="33" alt="linkedin logo"  />
-  </a>
-  <a href="awanmoiz709@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="33" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="33" alt="facebook logo"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=moizawan07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moizawan07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="./snake.yml" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
+<img src="https://raw.githubusercontent.com/moizawan07/moizawan07/output/snake.svg" alt="Snake animation" />
 
 ###
